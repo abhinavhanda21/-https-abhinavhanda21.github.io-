@@ -3,7 +3,7 @@
 To use this theme, please take the following steps.
 1. Fork this repository on GitHub
 2. Make an edit to your site and commit the change
-3. Go to [http://YourGithubProfile.github.io/resumetemplate](http://izzydoesizzy.github.io/resumetemplate)
+3. Go to [https://github.com/abhinavhanda21/abhinavhanda21.github.io](https://github.com/abhinavhanda21/abhinavhanda21.github.io)
 
 ## Adding a custom domain name
 1. In the main directory add a file named CNAME (without a file extension)
